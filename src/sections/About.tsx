@@ -14,7 +14,7 @@ const About = (props: Props) => {
                 We Ardently Strive To Encapsulate Life's Most Precious Moments, Weaving A Tapestry Of Artistry And A Hint Of Enchanting Magic With The Timeless Essence Of The Human Experience.
             </div>
         </div>
-        <div className="right flex w-full flex-col justify-between gap-7 md:max-w-3xl md:gap-10">
+        <div className="flex w-full flex-col justify-between gap-7 md:max-w-2xl md:gap-10">
             <div className="text-3xl font-light lg:text-4xl xl:text-5xl">
                 <span className='font-normal text-white'>Photography</span> is driven by a deep passion for <span className='font-normal text-white'>capturing life's</span> most <span className='font-normal text-white'>precious moments</span> with artistry and a touch of magic
             </div>
