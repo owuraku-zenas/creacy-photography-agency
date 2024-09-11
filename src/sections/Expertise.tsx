@@ -15,7 +15,7 @@ const Expertise = (props: Props) => {
                         When moments capture every dream crafted into beautiful reality
                     </p>
                 </div>
-                <div className="right flex w-full flex-col items-center overflow-x-scroll px-2 text-2xl md:max-w-xs md:p-6">
+                <div className="right flex w-full flex-col overflow-x-auto px-2 text-2xl md:max-w-xs md:items-center md:p-6">
                     <ul className='flex gap-7 py-3 text-left text-[#828380] md:flex-col'>
                         <li className='cursor-pointer text-[#FCFCFC] transition-colors duration-300 ease-in-out'>Landscape</li>
                         <li className='cursor-pointer transition-colors duration-300 ease-in-out hover:text-[#FCFCFC]'>Wildlife</li>
